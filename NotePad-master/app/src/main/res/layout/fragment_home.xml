@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/backtt">
+    <Button
+        android:id="@+id/See"
+        android:layout_width="300dp"
+        android:layout_height="145dp"
+        android:text="查看记事"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/www"
+        android:textSize="20sp"/>
+    <Button
+        android:id="@+id/Write"
+        android:layout_width="300dp"
+        android:layout_height="145dp"
+        android:text="记事"
+        android:layout_gravity="center"
+        android:background="@drawable/www"
+        android:textSize="20sp"/>
+    <Button
+        android:id="@+id/Picture"
+        android:layout_width="300dp"
+        android:layout_height="145dp"
+        android:text="图片记事"
+        android:layout_gravity="center"
+        android:background="@drawable/www"
+        android:textSize="20sp"/>
+    <Button
+        android:id="@+id/Alarm"
+        android:layout_width="300dp"
+        android:layout_height="145dp"
+        android:text="提醒"
+        android:layout_gravity="center"
+        android:background="@drawable/www"
+        android:textSize="20sp"/>
+    <Button
+        android:id="@+id/Media"
+        android:layout_width="300dp"
+        android:layout_height="145dp"
+        android:layout_gravity="center"
+        android:text="音乐播放"
+        android:background="@drawable/www"
+        android:textSize="20sp"/>
+
+</LinearLayout>
