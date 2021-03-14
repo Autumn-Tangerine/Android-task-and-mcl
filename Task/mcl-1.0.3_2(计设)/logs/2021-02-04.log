@@ -1,0 +1,2364 @@
+[0m2021-02-04 00:01:07 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 00:01:07 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 00:01:08 V/Net 2027063275: Send: MessageSvc.PbSendMsg[0m
+[0m2021-02-04 00:01:09 V/Net 2027063275: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-02-04 00:03:19 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 00:03:27 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 00:04:36 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 00:04:43 V/Net 2027063275: Send: MessageSvc.PbSendMsg[0m
+[0m2021-02-04 00:04:44 V/Net 2027063275: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-02-04 00:04:44 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 00:05:01 V/Net 2027063275: Send: MessageSvc.PbSendMsg[0m
+[0m2021-02-04 00:05:01 V/Net 2027063275: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-02-04 00:05:21 V/Net 2027063275: Send: MessageSvc.PbSendMsg[0m
+[0m2021-02-04 00:05:21 V/Net 2027063275: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-02-04 00:05:37 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 00:05:37 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 00:06:55 V/Net 2027063275: Send: MessageSvc.PbSendMsg[0m
+[0m2021-02-04 00:06:55 V/Net 2027063275: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-02-04 00:10:07 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 00:10:07 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 00:11:04 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 00:11:12 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 00:11:16 V/Net 2027063275: Send: MessageSvc.PbSendMsg[0m
+[0m2021-02-04 00:11:17 V/Net 2027063275: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-02-04 00:14:37 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 00:14:37 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 00:15:49 V/Net 2027063275: Send: MessageSvc.PbSendMsg[0m
+[0m2021-02-04 00:15:49 V/Net 2027063275: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-02-04 00:16:19 V/Net 2027063275: Send: MessageSvc.PbSendMsg[0m
+[0m2021-02-04 00:16:19 V/Net 2027063275: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-02-04 00:19:07 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 00:19:07 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 00:23:37 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 00:23:37 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 00:28:07 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 00:28:07 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 00:32:34 I/Net 2027063275: Connected to server 125.94.60.146:80[0m
+[0m2021-02-04 00:32:34 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 00:32:34 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 00:32:34 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 00:32:34 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 00:32:34 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 00:32:34 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 00:32:34 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 00:32:34 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 00:32:34 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 00:32:34 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 00:32:34 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[0m2021-02-04 00:32:34 V/Net 2027063275: Send: MessageSvc.PbDeleteMsg[0m
+[92m2021-02-04 00:32:34 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 00:32:37 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 00:32:37 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 00:32:37 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 00:32:37 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 00:32:37 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 00:37:04 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 00:37:04 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 00:41:34 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 00:41:34 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 00:46:04 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 00:46:04 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 00:49:25 I/Net 2027063275: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-04 00:49:25 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 00:49:25 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 00:49:25 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 00:49:26 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 00:49:26 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 00:49:26 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 00:49:26 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 00:49:26 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 00:49:26 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 00:49:26 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 00:49:26 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 00:49:26 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 00:49:29 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 00:49:29 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 00:49:29 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 00:53:56 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 00:53:56 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 00:58:26 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 00:58:26 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 01:02:56 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 01:02:56 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 01:06:11 I/Net 2027063275: Connected to server 42.81.172.22:80[0m
+[0m2021-02-04 01:06:11 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 01:06:11 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 01:06:11 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 01:06:11 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 01:06:11 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 01:06:11 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 01:06:11 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 01:06:11 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 01:06:11 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 01:06:11 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 01:06:11 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 01:06:11 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 01:06:14 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 01:06:14 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 01:06:14 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 01:06:14 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 01:06:14 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 01:10:41 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 01:10:41 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 01:15:11 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 01:15:11 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 01:19:41 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 01:19:41 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 01:22:57 I/Net 2027063275: Connected to server 42.81.169.46:8080[0m
+[0m2021-02-04 01:22:57 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 01:22:57 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 01:22:57 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 01:22:57 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 01:22:57 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 01:22:57 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 01:22:57 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 01:22:57 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 01:22:57 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 01:22:57 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 01:22:57 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 01:22:57 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 01:23:00 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 01:23:00 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 01:23:00 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 01:27:27 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 01:27:27 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 01:31:57 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 01:31:57 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 01:36:27 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 01:36:27 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 01:39:48 I/Net 2027063275: Connected to server 42.81.172.147:443[0m
+[0m2021-02-04 01:39:48 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 01:39:48 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 01:39:48 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 01:39:48 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 01:39:48 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 01:39:48 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 01:39:48 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 01:39:48 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 01:39:48 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 01:39:48 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 01:39:48 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 01:39:49 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 01:39:51 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 01:39:51 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 01:39:51 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 01:44:18 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 01:44:18 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 01:48:48 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 01:48:48 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 01:53:18 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 01:53:18 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 01:56:34 I/Net 2027063275: Connected to server 42.81.172.81:80[0m
+[0m2021-02-04 01:56:34 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 01:56:34 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 01:56:34 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 01:56:34 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 01:56:34 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 01:56:34 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 01:56:34 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 01:56:34 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 01:56:34 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 01:56:34 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 01:56:34 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 01:56:34 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 01:56:37 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 01:56:37 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 01:56:37 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 02:01:04 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 02:01:04 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 02:05:34 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 02:05:34 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 02:10:04 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 02:10:04 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 02:13:25 I/Net 2027063275: Connected to server 114.221.144.215:80[0m
+[0m2021-02-04 02:13:25 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 02:13:25 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 02:13:25 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 02:13:26 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 02:13:26 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 02:13:26 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 02:13:26 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 02:13:26 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 02:13:26 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 02:13:26 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 02:13:26 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 02:13:26 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 02:13:29 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 02:13:29 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 02:13:29 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 02:13:29 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 02:13:29 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 02:17:56 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 02:17:56 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 02:22:26 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 02:22:26 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 02:26:56 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 02:26:56 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 02:30:12 I/Net 2027063275: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-04 02:30:12 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 02:30:12 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 02:30:12 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 02:30:12 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 02:30:12 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 02:30:12 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 02:30:12 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 02:30:12 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 02:30:12 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 02:30:12 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 02:30:12 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 02:30:12 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 02:30:15 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 02:30:15 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 02:30:15 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 02:34:42 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 02:34:42 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 02:39:12 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 02:39:12 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 02:43:42 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 02:43:42 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 02:47:03 I/Net 2027063275: Connected to server 125.94.60.146:80[0m
+[0m2021-02-04 02:47:03 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 02:47:04 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 02:47:04 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 02:47:04 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 02:47:04 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 02:47:04 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 02:47:04 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 02:47:04 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 02:47:04 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 02:47:04 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 02:47:04 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 02:47:04 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 02:47:07 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 02:47:07 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 02:47:07 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 02:47:07 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 02:47:07 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 02:51:34 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 02:51:34 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 02:56:04 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 02:56:04 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 03:00:34 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 03:00:34 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 03:03:50 I/Net 2027063275: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-04 03:03:50 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 03:03:50 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 03:03:50 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 03:03:50 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 03:03:50 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 03:03:50 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 03:03:50 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 03:03:50 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 03:03:50 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 03:03:50 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 03:03:50 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 03:03:50 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 03:03:53 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 03:03:53 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 03:03:53 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 03:05:38 D/Net 2027063275: Unknown Transformers732 0x10 optEnumType
+optEnumType=24
+content=NotifyMsgBody#1067230818 {
+            optEnumType=0x00000018(24)
+            optMsgGroupInfoChange=GroupInfoChange#1832630343 {
+            }
+            optUint64GroupCode=0x0000000043B1AE2F(1135717935)
+            optUint64MsgExpires=0x00000000FFFFFFFF(4294967295)
+            optUint64MsgTime=0x00000000601AF402(1612379138)
+            optUint64SenderUin=0x00000000095FE33B(157279035)
+            serviceType=0x00000017(23)
+    }[0m
+[0m2021-02-04 03:05:38 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 03:05:47 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 03:08:20 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 03:08:20 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 03:09:41 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 03:09:50 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 03:12:50 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 03:12:50 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 03:17:20 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 03:17:20 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 03:20:36 I/Net 2027063275: Connected to server 42.81.172.22:80[0m
+[0m2021-02-04 03:20:36 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 03:20:36 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 03:20:36 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 03:20:36 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 03:20:36 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 03:20:36 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 03:20:36 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 03:20:36 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 03:20:36 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 03:20:36 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 03:20:36 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 03:20:36 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 03:20:39 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 03:20:39 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 03:20:39 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 03:20:39 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 03:20:39 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 03:25:06 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 03:25:06 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 03:29:36 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 03:29:36 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 03:34:06 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 03:34:06 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 03:37:21 I/Net 2027063275: Connected to server 42.81.169.46:8080[0m
+[0m2021-02-04 03:37:21 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 03:37:21 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 03:37:21 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 03:37:21 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 03:37:21 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 03:37:21 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 03:37:21 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 03:37:21 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 03:37:21 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 03:37:21 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 03:37:21 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 03:37:21 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 03:37:24 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 03:37:24 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 03:37:24 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 03:41:51 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 03:41:51 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 03:46:21 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 03:46:21 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 03:50:51 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 03:50:51 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 03:54:12 I/Net 2027063275: Connected to server 42.81.172.147:443[0m
+[0m2021-02-04 03:54:12 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 03:54:12 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 03:54:12 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 03:54:12 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 03:54:12 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 03:54:12 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 03:54:12 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 03:54:12 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 03:54:12 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 03:54:12 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 03:54:12 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 03:54:12 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 03:54:15 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 03:54:15 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 03:54:15 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 03:58:42 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 03:58:42 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 04:03:12 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 04:03:12 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 04:07:42 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 04:07:42 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 04:10:58 I/Net 2027063275: Connected to server 42.81.172.81:80[0m
+[0m2021-02-04 04:10:58 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 04:10:58 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 04:10:58 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 04:10:58 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 04:10:58 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 04:10:58 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 04:10:58 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 04:10:58 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 04:10:58 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 04:10:58 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 04:10:58 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 04:10:58 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 04:11:01 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 04:11:01 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 04:11:01 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 04:15:28 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 04:15:28 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 04:19:58 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 04:19:58 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 04:24:28 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 04:24:28 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 04:27:43 I/Net 2027063275: Connected to server 114.221.144.215:80[0m
+[0m2021-02-04 04:27:43 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 04:27:43 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 04:27:43 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 04:27:43 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 04:27:43 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 04:27:43 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 04:27:43 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 04:27:43 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 04:27:43 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 04:27:43 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 04:27:43 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 04:27:43 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 04:27:46 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 04:27:46 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 04:27:46 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 04:27:46 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 04:27:46 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 04:32:13 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 04:32:13 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 04:36:43 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 04:36:43 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 04:41:13 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 04:41:14 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 04:44:29 I/Net 2027063275: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-04 04:44:29 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 04:44:29 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 04:44:29 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 04:44:29 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 04:44:29 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 04:44:29 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 04:44:29 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 04:44:29 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 04:44:29 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 04:44:29 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 04:44:29 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 04:44:29 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 04:44:32 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 04:44:32 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 04:44:32 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 04:48:59 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 04:48:59 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 04:53:29 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 04:53:29 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 04:57:59 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 04:57:59 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 05:01:20 I/Net 2027063275: Connected to server 125.94.60.146:80[0m
+[0m2021-02-04 05:01:20 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 05:01:20 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 05:01:20 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 05:01:21 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 05:01:21 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 05:01:21 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 05:01:21 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 05:01:21 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 05:01:21 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 05:01:21 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 05:01:21 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 05:01:21 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 05:01:24 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 05:01:24 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 05:01:24 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 05:01:24 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 05:01:24 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 05:05:51 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 05:05:51 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 05:10:21 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 05:10:21 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 05:14:51 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 05:14:51 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 05:18:06 I/Net 2027063275: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-04 05:18:06 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 05:18:06 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 05:18:06 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 05:18:06 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 05:18:06 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 05:18:06 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 05:18:06 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 05:18:06 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 05:18:06 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 05:18:06 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 05:18:06 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 05:18:06 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 05:18:09 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 05:18:09 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 05:18:09 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 05:22:36 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 05:22:36 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 05:27:06 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 05:27:06 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 05:31:36 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 05:31:36 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 05:34:57 I/Net 2027063275: Connected to server 42.81.172.22:80[0m
+[0m2021-02-04 05:34:57 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 05:34:57 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 05:34:57 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 05:34:58 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 05:34:58 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 05:34:58 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 05:34:58 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 05:34:58 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 05:34:58 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 05:34:58 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 05:34:58 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 05:34:58 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 05:35:01 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 05:35:01 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 05:35:01 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 05:35:01 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 05:35:01 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 05:39:28 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 05:39:28 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 05:43:58 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 05:43:58 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 05:48:28 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 05:48:28 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 05:50:54 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 05:51:03 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[92m2021-02-04 05:51:43 I/Net 2027063275: Connected to server 42.81.169.46:8080[0m
+[0m2021-02-04 05:51:43 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 05:51:43 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 05:51:43 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 05:51:43 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 05:51:43 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 05:51:43 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 05:51:43 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 05:51:43 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 05:51:43 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 05:51:43 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 05:51:43 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 05:51:43 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 05:51:46 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 05:51:46 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 05:51:46 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 05:56:13 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 05:56:13 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 06:00:43 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 06:00:43 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 06:05:13 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 06:05:13 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 06:08:33 I/Net 2027063275: Connected to server 42.81.172.147:443[0m
+[0m2021-02-04 06:08:33 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 06:08:33 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 06:08:33 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 06:08:33 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 06:08:33 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 06:08:33 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 06:08:33 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 06:08:33 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 06:08:34 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 06:08:34 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 06:08:34 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 06:08:34 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 06:08:37 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 06:08:37 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 06:08:37 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 06:13:03 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 06:13:03 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 06:17:34 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 06:17:34 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 06:22:04 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 06:22:04 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 06:25:17 I/Net 2027063275: Connected to server 42.81.172.81:80[0m
+[0m2021-02-04 06:25:17 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 06:25:18 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 06:25:18 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 06:25:18 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 06:25:18 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 06:25:18 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 06:25:18 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 06:25:18 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 06:25:18 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 06:25:18 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 06:25:18 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 06:25:18 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 06:25:21 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 06:25:21 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 06:25:21 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 06:29:48 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 06:29:48 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 06:34:18 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 06:34:18 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 06:38:48 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 06:38:48 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 06:42:10 I/Net 2027063275: Connected to server 114.221.144.215:80[0m
+[0m2021-02-04 06:42:10 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 06:42:10 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 06:42:10 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 06:42:11 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 06:42:11 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 06:42:11 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 06:42:11 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 06:42:11 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 06:42:11 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 06:42:11 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 06:42:11 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 06:42:11 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 06:42:14 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 06:42:14 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 06:42:14 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 06:42:14 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 06:42:14 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 06:46:41 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 06:46:41 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 06:51:11 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 06:51:11 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 06:55:41 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 06:55:41 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 06:58:56 I/Net 2027063275: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-04 06:58:56 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 06:58:56 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 06:58:56 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 06:58:56 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 06:58:56 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 06:58:56 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 06:58:56 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 06:58:56 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 06:58:56 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 06:58:56 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 06:58:56 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 06:58:56 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 06:58:59 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 06:58:59 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 06:58:59 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 07:03:26 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 07:03:26 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 07:07:56 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 07:07:56 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 07:12:26 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 07:12:26 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 07:15:47 I/Net 2027063275: Connected to server 125.94.60.146:80[0m
+[0m2021-02-04 07:15:47 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 07:15:47 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 07:15:47 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 07:15:48 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 07:15:48 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 07:15:48 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 07:15:48 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 07:15:48 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 07:15:48 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 07:15:48 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 07:15:48 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 07:15:48 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 07:15:51 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 07:15:51 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 07:15:51 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 07:15:56 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 07:15:56 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 07:20:18 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 07:20:18 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 07:24:48 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 07:24:48 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 07:29:18 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 07:29:18 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 07:32:33 I/Net 2027063275: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-04 07:32:33 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 07:32:33 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 07:32:33 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 07:32:33 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 07:32:33 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 07:32:33 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 07:32:33 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 07:32:33 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 07:32:33 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 07:32:33 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 07:32:33 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 07:32:33 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 07:32:36 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 07:32:36 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 07:32:36 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 07:37:03 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 07:37:03 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 07:41:33 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 07:41:33 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 07:46:03 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 07:46:03 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 07:49:24 I/Net 2027063275: Connected to server 42.81.172.22:80[0m
+[0m2021-02-04 07:49:24 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 07:49:24 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 07:49:24 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 07:49:24 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 07:49:24 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 07:49:24 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 07:49:25 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 07:49:25 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 07:49:25 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 07:49:25 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 07:49:25 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 07:49:25 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 07:49:28 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 07:49:28 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 07:49:28 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 07:49:28 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 07:49:28 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 07:53:55 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 07:53:55 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 07:58:25 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 07:58:25 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 08:02:55 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 08:02:55 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 08:06:09 I/Net 2027063275: Connected to server 42.81.169.46:8080[0m
+[0m2021-02-04 08:06:09 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 08:06:10 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 08:06:10 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 08:06:10 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 08:06:10 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 08:06:10 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 08:06:10 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 08:06:10 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 08:06:10 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 08:06:10 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 08:06:10 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 08:06:10 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 08:06:13 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 08:06:13 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 08:06:13 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 08:10:40 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 08:10:40 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 08:15:10 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 08:15:10 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 08:19:40 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 08:19:40 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 08:23:00 I/Net 2027063275: Connected to server 42.81.172.147:443[0m
+[0m2021-02-04 08:23:00 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 08:23:00 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 08:23:00 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 08:23:00 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 08:23:00 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 08:23:00 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 08:23:00 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 08:23:00 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 08:23:00 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 08:23:00 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 08:23:00 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 08:23:01 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 08:23:03 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 08:23:03 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 08:23:03 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 08:27:30 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 08:27:30 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 08:32:00 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 08:32:00 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 08:36:30 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 08:36:30 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 08:39:46 I/Net 2027063275: Connected to server 42.81.172.81:80[0m
+[0m2021-02-04 08:39:46 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 08:39:46 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 08:39:46 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 08:39:46 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 08:39:46 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 08:39:46 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 08:39:46 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 08:39:46 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 08:39:46 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 08:39:46 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 08:39:46 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 08:39:46 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 08:39:49 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 08:39:49 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 08:39:49 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 08:44:16 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 08:44:16 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 08:48:46 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 08:48:46 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 08:53:16 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 08:53:16 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 08:56:31 I/Net 2027063275: Connected to server 114.221.144.215:80[0m
+[0m2021-02-04 08:56:31 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 08:56:31 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 08:56:31 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 08:56:31 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 08:56:31 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 08:56:31 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 08:56:31 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 08:56:31 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 08:56:31 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 08:56:31 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 08:56:31 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 08:56:31 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 08:56:34 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 08:56:34 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 08:56:34 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 08:56:34 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 08:56:34 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 09:01:01 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 09:01:01 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 09:05:31 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 09:05:31 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 09:10:01 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 09:10:01 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 09:13:17 I/Net 2027063275: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-04 09:13:17 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 09:13:17 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 09:13:17 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 09:13:17 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 09:13:17 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 09:13:17 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 09:13:17 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 09:13:17 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 09:13:17 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 09:13:17 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 09:13:17 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 09:13:17 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 09:13:20 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 09:13:20 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 09:13:20 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 09:17:47 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 09:17:47 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 09:22:17 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 09:22:17 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 09:26:47 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 09:26:47 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 09:30:08 I/Net 2027063275: Connected to server 125.94.60.146:80[0m
+[0m2021-02-04 09:30:08 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 09:30:08 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 09:30:08 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 09:30:08 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 09:30:08 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 09:30:08 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 09:30:08 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 09:30:08 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 09:30:08 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 09:30:08 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 09:30:08 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 09:30:08 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 09:30:11 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 09:30:11 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 09:30:11 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 09:30:11 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 09:30:11 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 09:34:38 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 09:34:38 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 09:39:08 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 09:39:08 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 09:43:38 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 09:43:38 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 09:44:16 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 09:44:24 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[92m2021-02-04 09:46:53 I/Net 2027063275: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-04 09:46:53 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 09:46:53 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 09:46:53 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 09:46:53 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 09:46:53 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 09:46:53 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 09:46:53 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 09:46:53 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 09:46:53 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 09:46:53 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 09:46:53 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 09:46:53 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 09:46:56 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 09:46:56 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 09:46:56 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 09:51:23 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 09:51:23 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 09:55:53 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 09:55:53 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 10:00:23 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 10:00:23 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 10:03:43 I/Net 2027063275: Connected to server 42.81.172.22:80[0m
+[0m2021-02-04 10:03:43 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 10:03:44 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 10:03:44 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 10:03:44 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 10:03:44 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 10:03:44 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 10:03:44 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 10:03:44 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 10:03:44 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 10:03:44 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 10:03:44 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 10:03:44 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 10:03:47 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 10:03:47 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 10:03:47 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 10:03:47 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 10:03:47 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 10:08:14 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 10:08:14 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 10:12:44 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 10:12:44 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 10:16:55 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 10:17:04 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 10:17:14 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 10:17:14 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 10:20:29 I/Net 2027063275: Connected to server 42.81.169.46:8080[0m
+[0m2021-02-04 10:20:29 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 10:20:29 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 10:20:29 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 10:20:29 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 10:20:29 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 10:20:29 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 10:20:29 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 10:20:29 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 10:20:29 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 10:20:29 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 10:20:29 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 10:20:29 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 10:20:32 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 10:20:32 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 10:20:32 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 10:24:59 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 10:24:59 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 10:28:47 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 10:28:56 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[96m2021-02-04 10:29:27 D/Net 2027063275: Unknown Transformers732 0x10 optEnumType
+optEnumType=24
+content=NotifyMsgBody#1067230818 {
+            optEnumType=0x00000018(24)
+            optMsgGroupInfoChange=GroupInfoChange#1832630343 {
+            }
+            optUint64GroupCode=0x0000000043B1AE2F(1135717935)
+            optUint64MsgExpires=0x00000000FFFFFFFF(4294967295)
+            optUint64MsgTime=0x00000000601B5C07(1612405767)
+            optUint64SenderUin=0x000000002E3D9119(775786777)
+            serviceType=0x00000017(23)
+    }[0m
+[0m2021-02-04 10:29:27 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 10:29:29 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 10:29:29 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 10:29:35 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 10:33:59 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 10:33:59 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 10:37:22 I/Net 2027063275: Connected to server 42.81.172.147:443[0m
+[0m2021-02-04 10:37:22 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 10:37:22 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 10:37:22 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 10:37:22 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 10:37:22 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 10:37:22 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 10:37:22 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 10:37:22 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 10:37:22 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 10:37:22 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 10:37:22 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 10:37:22 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 10:37:25 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 10:37:25 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 10:37:25 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 10:41:52 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 10:41:52 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 10:42:34 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 10:42:42 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 10:45:35 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 10:45:35 V/Net 2027063275: Recv: RequestPushNotify(uin=2027063275, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=45, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@5c988314)[0m
+[0m2021-02-04 10:45:35 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[0m2021-02-04 10:45:36 V/Net 2027063275: Send: MessageSvc.PbDeleteMsg[0m
+[0m2021-02-04 10:45:44 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 10:46:22 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 10:46:22 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 10:48:59 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 10:49:08 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 10:50:52 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 10:50:52 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 10:54:01 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 10:54:09 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 10:55:22 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 10:55:22 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 10:59:52 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 10:59:52 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 11:02:21 I/Net 2027063275: Connected to server 42.81.172.81:80[0m
+[0m2021-02-04 11:02:21 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 11:02:21 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 11:02:21 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 11:02:21 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 11:02:21 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 11:02:21 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 11:02:21 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 11:02:21 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 11:02:21 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 11:02:21 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 11:02:21 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 11:02:21 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 11:02:24 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 11:02:24 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 11:02:24 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 11:02:24 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 11:02:24 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 11:06:51 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 11:06:51 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 11:11:21 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 11:11:21 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 11:15:51 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 11:15:51 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 11:19:12 I/Net 2027063275: Connected to server 114.221.144.215:80[0m
+[0m2021-02-04 11:19:12 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 11:19:12 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 11:19:12 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 11:19:12 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 11:19:12 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 11:19:12 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 11:19:12 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 11:19:12 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 11:19:12 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 11:19:12 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 11:19:12 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 11:19:12 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 11:19:15 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 11:19:15 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 11:19:15 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 11:19:15 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 11:19:15 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 11:23:42 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 11:23:42 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 11:28:12 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 11:28:12 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 11:32:42 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 11:32:42 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 11:35:58 I/Net 2027063275: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-04 11:35:58 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 11:35:58 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 11:35:58 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 11:35:58 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 11:35:58 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 11:35:58 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 11:35:58 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 11:35:58 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 11:35:58 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 11:35:58 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 11:35:58 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 11:35:58 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 11:36:01 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 11:36:01 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 11:36:01 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 11:40:28 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 11:40:28 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 11:44:58 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 11:44:58 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 11:49:28 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 11:49:28 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 11:52:48 I/Net 2027063275: Connected to server 125.94.60.146:80[0m
+[0m2021-02-04 11:52:48 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 11:52:49 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 11:52:49 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 11:52:49 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 11:52:49 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 11:52:49 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 11:52:49 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 11:52:49 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 11:52:49 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 11:52:49 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 11:52:49 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 11:52:49 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 11:52:52 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 11:52:52 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 11:52:52 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 11:52:52 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 11:52:52 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 11:57:19 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 11:57:19 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 12:01:49 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 12:01:49 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 12:06:19 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 12:06:19 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 12:09:35 I/Net 2027063275: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-04 12:09:35 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 12:09:35 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 12:09:35 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 12:09:35 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 12:09:35 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 12:09:35 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 12:09:35 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 12:09:35 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 12:09:35 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 12:09:35 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 12:09:35 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 12:09:35 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 12:09:38 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 12:09:38 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 12:09:38 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 12:11:01 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:11:10 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[96m2021-02-04 12:12:42 D/Net 2027063275: Unknown Transformers732 0x10 optEnumType
+optEnumType=26
+content=NotifyMsgBody#1067230818 {
+            optEnumType=0x0000001A(26)
+            optUint64GroupCode=0x0000000043B1AE2F(1135717935)
+            optUint64MsgExpires=0x0000000000000000(0)
+            optUint64MsgTime=0x00000000601B743A(1612411962)
+            optUint64SenderUin=0x000000004AE6046A(1256588394)
+            serviceType=0x00000019(25)
+    }[0m
+[0m2021-02-04 12:12:42 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:12:50 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:12:54 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[96m2021-02-04 12:12:59 D/Net 2027063275: Unknown Transformers732 0x10 optEnumType
+optEnumType=26
+content=NotifyMsgBody#1067230818 {
+            optEnumType=0x0000001A(26)
+            optUint64GroupCode=0x0000000043B1AE2F(1135717935)
+            optUint64MsgExpires=0x0000000000000000(0)
+            optUint64MsgTime=0x00000000601B744B(1612411979)
+            optUint64SenderUin=0x000000004AE6046A(1256588394)
+            serviceType=0x00000019(25)
+    }[0m
+[0m2021-02-04 12:12:59 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[96m2021-02-04 12:12:59 D/Net 2027063275: Unknown Transformers732 0x10 optEnumType
+optEnumType=26
+content=NotifyMsgBody#1067230818 {
+            optEnumType=0x0000001A(26)
+            optUint64GroupCode=0x0000000043B1AE2F(1135717935)
+            optUint64MsgExpires=0x0000000000000000(0)
+            optUint64MsgTime=0x00000000601B744B(1612411979)
+            optUint64SenderUin=0x000000004AE6046A(1256588394)
+            serviceType=0x00000019(25)
+    }[0m
+[0m2021-02-04 12:12:59 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:13:03 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:13:07 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:13:07 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:14:05 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 12:14:05 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 12:16:51 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:16:59 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[31m2021-02-04 12:18:00 E/Net 2027063275: Exception in NetworkHandler
+java.util.NoSuchElementException: net.mamoe.mirai.message.data.MessageSource$Key@78397af9
+	at net.mamoe.mirai.api.http.data.common.MessageDTOKt.toDTO(MessageDTO.kt:282)
+	at net.mamoe.mirai.api.http.data.common.MessageDTOKt.toDTO(MessageDTO.kt:261)
+	at net.mamoe.mirai.api.http.data.common.BotEventDTOKt.toDTO(BotEventDTO.kt:21)
+	at net.mamoe.mirai.api.http.route.WebSocketRouteModuleKt$websocketRouteModule$1$$special$$inlined$miraiWebsocket$3$lambda$1.invokeSuspend(WebSocketRouteModule.kt:83)
+	at net.mamoe.mirai.api.http.route.WebSocketRouteModuleKt$websocketRouteModule$1$$special$$inlined$miraiWebsocket$3$lambda$1.invoke(WebSocketRouteModule.kt)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invokeSuspend(EventChannel.kt:393)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.event.EventChannel$filter$1$intercepted$1.invokeSuspend(EventChannel.kt:144)
+	at net.mamoe.mirai.event.EventChannel$filter$1$intercepted$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invokeSuspend(InternalEventListeners.kt:49)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invoke(InternalEventListeners.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startUndispatchedOrReturn(Undispatched.kt:91)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.withContext(Builders.common.kt:165)
+	at kotlinx.coroutines.BuildersKt.withContext(Unknown Source)
+	at net.mamoe.mirai.internal.event.Handler.onEvent(InternalEventListeners.kt:49)
+	at net.mamoe.mirai.event.EventKt.broadcast(Event.kt:226)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.handlePacket(QQAndroidBotNetworkHandler.kt:631)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$generifiedParsePacket$2.invokeSuspend(QQAndroidBotNetworkHandler.kt:587)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$generifiedParsePacket$2.invoke(QQAndroidBotNetworkHandler.kt)
+	at net.mamoe.mirai.internal.network.protocol.packet.KnownPacketFactories.handleIncomingPacket$mirai_core(PacketFactory.kt:286)
+	at net.mamoe.mirai.internal.network.protocol.packet.KnownPacketFactories.parseIncomingPacket(PacketFactory.kt:242)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.generifiedParsePacket(QQAndroidBotNetworkHandler.kt:578)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.parsePacket(QQAndroidBotNetworkHandler.kt:573)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$parsePacketAsync$1.invokeSuspend(QQAndroidBotNetworkHandler.kt:556)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:750)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+[0m
+[0m2021-02-04 12:18:35 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 12:18:35 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 12:20:56 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[96m2021-02-04 12:20:56 D/Net 2027063275: unknown group 732 type 21, data: 88 08 1B 10 A8 EC ED 80 06 20 AF DC C6 9D 04 68 1A 8A 02 70 08 AF DC C6 9D 04 10 F0 C6 05 18 F8 B7 DA D0 05 20 01 28 EA 88 98 D7 04 30 EA 88 98 D7 04 38 A8 EC ED 80 06 40 F5 C6 05 4A 21 E7 8E 8B E7 8E 89 E6 9D B0 EF BC 88 E5 B9 BC E5 84 BF E5 9B AD E5 A4 A7 E8 81 AA E6 98 8E EF BC 89 52 21 E7 8E 8B E7 8E 89 E6 9D B0 EF BC 88 E5 B9 BC E5 84 BF E5 9B AD E5 A4 A7 E8 81 AA E6 98 8E EF BC 89 58 01 A8 02 F5 C6 05[0m
+[0m2021-02-04 12:20:56 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[31m2021-02-04 12:21:03 E/Net 2027063275: Exception in NetworkHandler
+java.util.NoSuchElementException: net.mamoe.mirai.message.data.MessageSource$Key@78397af9
+	at net.mamoe.mirai.api.http.data.common.MessageDTOKt.toDTO(MessageDTO.kt:282)
+	at net.mamoe.mirai.api.http.data.common.MessageDTOKt.toDTO(MessageDTO.kt:261)
+	at net.mamoe.mirai.api.http.data.common.BotEventDTOKt.toDTO(BotEventDTO.kt:21)
+	at net.mamoe.mirai.api.http.route.WebSocketRouteModuleKt$websocketRouteModule$1$$special$$inlined$miraiWebsocket$3$lambda$1.invokeSuspend(WebSocketRouteModule.kt:83)
+	at net.mamoe.mirai.api.http.route.WebSocketRouteModuleKt$websocketRouteModule$1$$special$$inlined$miraiWebsocket$3$lambda$1.invoke(WebSocketRouteModule.kt)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invokeSuspend(EventChannel.kt:393)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.event.EventChannel$filter$1$intercepted$1.invokeSuspend(EventChannel.kt:144)
+	at net.mamoe.mirai.event.EventChannel$filter$1$intercepted$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invokeSuspend(InternalEventListeners.kt:49)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invoke(InternalEventListeners.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startUndispatchedOrReturn(Undispatched.kt:91)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.withContext(Builders.common.kt:165)
+	at kotlinx.coroutines.BuildersKt.withContext(Unknown Source)
+	at net.mamoe.mirai.internal.event.Handler.onEvent(InternalEventListeners.kt:49)
+	at net.mamoe.mirai.event.EventKt.broadcast(Event.kt:226)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.handlePacket(QQAndroidBotNetworkHandler.kt:631)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$generifiedParsePacket$2.invokeSuspend(QQAndroidBotNetworkHandler.kt:587)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$generifiedParsePacket$2.invoke(QQAndroidBotNetworkHandler.kt)
+	at net.mamoe.mirai.internal.network.protocol.packet.KnownPacketFactories.handleIncomingPacket$mirai_core(PacketFactory.kt:286)
+	at net.mamoe.mirai.internal.network.protocol.packet.KnownPacketFactories.parseIncomingPacket(PacketFactory.kt:242)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.generifiedParsePacket(QQAndroidBotNetworkHandler.kt:578)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.parsePacket(QQAndroidBotNetworkHandler.kt:573)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$parsePacketAsync$1.invokeSuspend(QQAndroidBotNetworkHandler.kt:556)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:750)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+[0m
+[0m2021-02-04 12:21:04 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:21:04 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[96m2021-02-04 12:21:28 D/Net 2027063275: Unknown Transformers732 0x10 optEnumType
+optEnumType=24
+content=NotifyMsgBody#1067230818 {
+            optEnumType=0x00000018(24)
+            optMsgGroupInfoChange=GroupInfoChange#1832630343 {
+            }
+            optUint64GroupCode=0x0000000044CB95C8(1154192840)
+            optUint64MsgExpires=0x00000000FFFFFFFF(4294967295)
+            optUint64MsgTime=0x00000000601B7648(1612412488)
+            optUint64SenderUin=0x0000000092820B08(2457996040)
+            serviceType=0x00000017(23)
+    }[0m
+[0m2021-02-04 12:21:28 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:21:37 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:23:05 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 12:23:05 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 12:24:04 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:24:12 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:26:11 V/Net 2027063275: Send: MessageSvc.PbSendMsg[0m
+[0m2021-02-04 12:26:11 V/Net 2027063275: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-02-04 12:26:45 V/Net 2027063275: Send: MessageSvc.PbSendMsg[0m
+[0m2021-02-04 12:26:45 V/Net 2027063275: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-02-04 12:27:35 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 12:27:35 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 12:29:13 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:29:22 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:32:05 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 12:32:05 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 12:35:16 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:35:24 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:36:35 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 12:36:35 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 12:41:05 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 12:41:05 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 12:41:19 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:41:27 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[92m2021-02-04 12:43:01 I/Net 2027063275: Connected to server 42.81.172.22:80[0m
+[0m2021-02-04 12:43:01 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 12:43:01 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 12:43:01 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 12:43:01 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 12:43:01 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 12:43:01 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 12:43:01 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 12:43:01 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 12:43:01 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 12:43:01 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 12:43:01 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[0m2021-02-04 12:43:01 V/Net 2027063275: Send: MessageSvc.PbDeleteMsg[0m
+[92m2021-02-04 12:43:01 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 12:43:04 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 12:43:04 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 12:43:04 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 12:43:04 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 12:43:04 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 12:47:31 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 12:47:31 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 12:52:01 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 12:52:01 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 12:55:24 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:55:32 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 12:56:31 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 12:56:31 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 12:59:46 I/Net 2027063275: Connected to server 42.81.169.46:8080[0m
+[0m2021-02-04 12:59:46 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 12:59:46 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 12:59:46 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 12:59:46 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 12:59:46 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 12:59:46 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 12:59:46 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 12:59:46 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 12:59:46 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 12:59:46 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 12:59:46 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 12:59:46 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 12:59:49 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 12:59:49 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 12:59:49 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 13:01:05 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 13:01:13 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 13:04:16 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 13:04:16 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 13:08:46 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 13:08:46 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 13:10:07 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 13:10:16 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 13:13:16 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 13:13:16 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 13:16:12 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 13:16:21 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[92m2021-02-04 13:16:32 I/Net 2027063275: Connected to server 42.81.172.147:443[0m
+[0m2021-02-04 13:16:32 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 13:16:32 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 13:16:32 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 13:16:32 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 13:16:32 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 13:16:32 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 13:16:32 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 13:16:32 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 13:16:32 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 13:16:32 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 13:16:32 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 13:16:32 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 13:16:35 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 13:16:35 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 13:16:35 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[31m2021-02-04 13:19:23 E/Net 2027063275: Exception in NetworkHandler
+java.util.NoSuchElementException: net.mamoe.mirai.message.data.MessageSource$Key@78397af9
+	at net.mamoe.mirai.api.http.data.common.MessageDTOKt.toDTO(MessageDTO.kt:282)
+	at net.mamoe.mirai.api.http.data.common.MessageDTOKt.toDTO(MessageDTO.kt:261)
+	at net.mamoe.mirai.api.http.data.common.BotEventDTOKt.toDTO(BotEventDTO.kt:21)
+	at net.mamoe.mirai.api.http.route.WebSocketRouteModuleKt$websocketRouteModule$1$$special$$inlined$miraiWebsocket$3$lambda$1.invokeSuspend(WebSocketRouteModule.kt:83)
+	at net.mamoe.mirai.api.http.route.WebSocketRouteModuleKt$websocketRouteModule$1$$special$$inlined$miraiWebsocket$3$lambda$1.invoke(WebSocketRouteModule.kt)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invokeSuspend(EventChannel.kt:393)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.event.EventChannel$filter$1$intercepted$1.invokeSuspend(EventChannel.kt:144)
+	at net.mamoe.mirai.event.EventChannel$filter$1$intercepted$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invokeSuspend(InternalEventListeners.kt:49)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invoke(InternalEventListeners.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startUndispatchedOrReturn(Undispatched.kt:91)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.withContext(Builders.common.kt:165)
+	at kotlinx.coroutines.BuildersKt.withContext(Unknown Source)
+	at net.mamoe.mirai.internal.event.Handler.onEvent(InternalEventListeners.kt:49)
+	at net.mamoe.mirai.event.EventKt.broadcast(Event.kt:226)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.handlePacket(QQAndroidBotNetworkHandler.kt:631)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$generifiedParsePacket$2.invokeSuspend(QQAndroidBotNetworkHandler.kt:587)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$generifiedParsePacket$2.invoke(QQAndroidBotNetworkHandler.kt)
+	at net.mamoe.mirai.internal.network.protocol.packet.KnownPacketFactories.handleIncomingPacket$mirai_core(PacketFactory.kt:286)
+	at net.mamoe.mirai.internal.network.protocol.packet.KnownPacketFactories.parseIncomingPacket(PacketFactory.kt:242)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.generifiedParsePacket(QQAndroidBotNetworkHandler.kt:578)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.parsePacket(QQAndroidBotNetworkHandler.kt:573)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$parsePacketAsync$1.invokeSuspend(QQAndroidBotNetworkHandler.kt:556)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:750)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+[0m
+[0m2021-02-04 13:21:02 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 13:21:02 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[31m2021-02-04 13:21:30 E/Net 2027063275: Exception in NetworkHandler
+java.util.NoSuchElementException: net.mamoe.mirai.message.data.MessageSource$Key@78397af9
+	at net.mamoe.mirai.api.http.data.common.MessageDTOKt.toDTO(MessageDTO.kt:282)
+	at net.mamoe.mirai.api.http.data.common.MessageDTOKt.toDTO(MessageDTO.kt:261)
+	at net.mamoe.mirai.api.http.data.common.BotEventDTOKt.toDTO(BotEventDTO.kt:21)
+	at net.mamoe.mirai.api.http.route.WebSocketRouteModuleKt$websocketRouteModule$1$$special$$inlined$miraiWebsocket$3$lambda$1.invokeSuspend(WebSocketRouteModule.kt:83)
+	at net.mamoe.mirai.api.http.route.WebSocketRouteModuleKt$websocketRouteModule$1$$special$$inlined$miraiWebsocket$3$lambda$1.invoke(WebSocketRouteModule.kt)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invokeSuspend(EventChannel.kt:393)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.event.EventChannel$filter$1$intercepted$1.invokeSuspend(EventChannel.kt:144)
+	at net.mamoe.mirai.event.EventChannel$filter$1$intercepted$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invokeSuspend(InternalEventListeners.kt:49)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invoke(InternalEventListeners.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startUndispatchedOrReturn(Undispatched.kt:91)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.withContext(Builders.common.kt:165)
+	at kotlinx.coroutines.BuildersKt.withContext(Unknown Source)
+	at net.mamoe.mirai.internal.event.Handler.onEvent(InternalEventListeners.kt:49)
+	at net.mamoe.mirai.event.EventKt.broadcast(Event.kt:226)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.handlePacket(QQAndroidBotNetworkHandler.kt:631)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$generifiedParsePacket$2.invokeSuspend(QQAndroidBotNetworkHandler.kt:587)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$generifiedParsePacket$2.invoke(QQAndroidBotNetworkHandler.kt)
+	at net.mamoe.mirai.internal.network.protocol.packet.KnownPacketFactories.handleIncomingPacket$mirai_core(PacketFactory.kt:286)
+	at net.mamoe.mirai.internal.network.protocol.packet.KnownPacketFactories.parseIncomingPacket(PacketFactory.kt:242)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.generifiedParsePacket(QQAndroidBotNetworkHandler.kt:578)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.parsePacket(QQAndroidBotNetworkHandler.kt:573)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$parsePacketAsync$1.invokeSuspend(QQAndroidBotNetworkHandler.kt:556)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:750)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+[0m
+[0m2021-02-04 13:23:50 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 13:23:58 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 13:25:32 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 13:25:32 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 13:30:02 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 13:30:02 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 13:33:23 I/Net 2027063275: Connected to server 42.81.172.81:80[0m
+[0m2021-02-04 13:33:23 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 13:33:23 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 13:33:23 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 13:33:23 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 13:33:23 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 13:33:23 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 13:33:23 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 13:33:23 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 13:33:23 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 13:33:23 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 13:33:23 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 13:33:24 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 13:33:26 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 13:33:27 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 13:33:27 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 13:37:53 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 13:37:53 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 13:42:23 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 13:42:23 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 13:46:53 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 13:46:54 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 13:50:14 I/Net 2027063275: Connected to server 114.221.144.215:80[0m
+[0m2021-02-04 13:50:14 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 13:50:14 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 13:50:14 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 13:50:14 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 13:50:14 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 13:50:14 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 13:50:15 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 13:50:15 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 13:50:15 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 13:50:15 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 13:50:15 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 13:50:15 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 13:50:18 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 13:50:18 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 13:50:18 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 13:50:18 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 13:50:18 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 13:51:09 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 13:51:17 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 13:54:45 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 13:54:45 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 13:58:52 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 13:59:01 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 13:59:02 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 13:59:11 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 13:59:15 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 13:59:15 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 14:03:45 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 14:03:45 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 14:05:36 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 14:05:44 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[92m2021-02-04 14:07:00 I/Net 2027063275: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-04 14:07:00 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 14:07:00 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 14:07:00 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 14:07:00 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 14:07:00 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 14:07:00 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 14:07:00 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 14:07:00 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 14:07:00 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 14:07:00 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 14:07:00 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[0m2021-02-04 14:07:00 V/Net 2027063275: Send: MessageSvc.PbDeleteMsg[0m
+[92m2021-02-04 14:07:00 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 14:07:03 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 14:07:03 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 14:07:03 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 14:11:30 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 14:11:30 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 14:15:30 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 14:15:39 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 14:16:00 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 14:16:00 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 14:20:30 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 14:20:30 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 14:23:50 I/Net 2027063275: Connected to server 125.94.60.146:80[0m
+[0m2021-02-04 14:23:50 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 14:23:50 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 14:23:50 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 14:23:50 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 14:23:50 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 14:23:50 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 14:23:50 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 14:23:50 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 14:23:50 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 14:23:50 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 14:23:50 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 14:23:50 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 14:23:53 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 14:23:53 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 14:23:53 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 14:23:53 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 14:23:53 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 14:25:37 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 14:25:45 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 14:28:20 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 14:28:20 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 14:32:50 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 14:32:50 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 14:37:20 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 14:37:20 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 14:40:35 I/Net 2027063275: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-04 14:40:35 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 14:40:35 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 14:40:35 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 14:40:35 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 14:40:35 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 14:40:35 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 14:40:35 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 14:40:35 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 14:40:35 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 14:40:35 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 14:40:35 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 14:40:35 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 14:40:38 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 14:40:38 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 14:40:38 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 14:45:05 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 14:45:05 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 14:49:35 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 14:49:35 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 14:54:05 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 14:54:05 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 14:57:20 I/Net 2027063275: Connected to server 42.81.172.22:80[0m
+[0m2021-02-04 14:57:20 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 14:57:20 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 14:57:20 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 14:57:20 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 14:57:20 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 14:57:20 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 14:57:20 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 14:57:20 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 14:57:20 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 14:57:20 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 14:57:20 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 14:57:20 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 14:57:23 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 14:57:23 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 14:57:23 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 14:57:23 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 14:57:23 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 15:01:50 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 15:01:50 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 15:06:20 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 15:06:20 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 15:10:50 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 15:10:50 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 15:14:10 I/Net 2027063275: Connected to server 42.81.169.46:8080[0m
+[0m2021-02-04 15:14:10 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 15:14:10 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 15:14:10 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 15:14:10 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 15:14:10 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 15:14:10 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 15:14:10 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 15:14:10 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 15:14:10 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 15:14:10 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 15:14:10 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 15:14:10 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 15:14:14 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 15:14:14 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 15:14:14 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 15:18:40 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 15:18:40 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 15:23:10 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 15:23:10 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 15:27:40 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 15:27:40 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 15:30:56 I/Net 2027063275: Connected to server 42.81.172.147:443[0m
+[0m2021-02-04 15:30:56 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 15:30:56 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 15:30:56 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 15:30:56 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 15:30:56 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 15:30:56 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 15:30:56 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 15:30:56 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 15:30:56 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 15:30:56 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 15:30:56 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 15:30:56 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 15:30:59 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 15:30:59 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 15:30:59 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 15:35:26 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 15:35:26 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 15:39:56 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 15:39:56 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 15:44:26 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 15:44:26 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 15:47:40 I/Net 2027063275: Connected to server 42.81.172.81:80[0m
+[0m2021-02-04 15:47:40 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 15:47:41 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 15:47:41 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 15:47:41 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 15:47:41 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 15:47:41 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 15:47:41 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 15:47:41 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 15:47:41 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 15:47:41 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 15:47:41 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 15:47:41 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 15:47:44 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 15:47:44 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 15:47:44 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 15:50:47 D/Net 2027063275: Transformers528 0x27L: new data: [][0m
+[0m2021-02-04 15:50:47 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 15:50:55 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 15:52:11 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 15:52:11 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 15:56:41 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 15:56:41 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 16:01:11 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 16:01:11 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 16:04:32 I/Net 2027063275: Connected to server 114.221.144.215:80[0m
+[0m2021-02-04 16:04:32 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 16:04:32 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 16:04:32 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 16:04:32 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 16:04:32 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 16:04:32 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 16:04:32 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 16:04:32 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 16:04:32 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 16:04:32 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 16:04:32 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 16:04:32 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 16:04:35 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 16:04:35 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 16:04:35 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 16:04:35 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 16:04:35 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 16:09:02 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 16:09:02 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 16:13:32 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 16:13:32 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 16:18:02 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 16:18:02 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 16:21:18 I/Net 2027063275: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-04 16:21:18 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 16:21:18 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 16:21:18 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 16:21:18 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 16:21:18 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 16:21:18 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 16:21:18 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 16:21:18 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 16:21:18 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 16:21:18 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 16:21:18 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 16:21:18 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 16:21:21 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 16:21:21 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 16:21:21 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 16:25:48 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 16:25:48 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 16:30:18 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 16:30:18 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 16:34:48 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 16:34:48 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 16:38:09 I/Net 2027063275: Connected to server 125.94.60.146:80[0m
+[0m2021-02-04 16:38:09 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 16:38:09 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 16:38:09 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 16:38:09 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 16:38:09 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 16:38:09 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 16:38:09 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 16:38:09 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 16:38:09 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 16:38:09 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 16:38:09 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 16:38:09 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 16:38:12 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 16:38:12 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 16:38:12 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 16:38:12 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 16:38:12 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 16:42:39 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 16:42:39 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 16:47:09 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 16:47:09 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 16:51:39 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 16:51:39 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 16:54:54 I/Net 2027063275: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-04 16:54:54 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 16:54:54 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 16:54:54 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 16:54:54 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 16:54:54 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 16:54:54 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 16:54:54 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 16:54:54 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 16:54:54 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 16:54:54 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 16:54:54 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 16:54:54 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 16:54:57 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 16:54:57 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 16:54:57 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 16:59:24 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 16:59:24 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 17:03:54 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 17:03:54 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 17:08:24 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 17:08:24 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 17:11:39 I/Net 2027063275: Connected to server 42.81.172.22:80[0m
+[0m2021-02-04 17:11:39 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 17:11:39 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 17:11:39 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 17:11:39 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 17:11:39 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 17:11:39 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 17:11:39 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 17:11:39 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 17:11:39 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 17:11:39 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 17:11:39 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 17:11:39 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 17:11:42 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 17:11:42 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 17:11:42 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 17:11:42 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 17:11:42 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 17:16:09 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 17:16:09 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 17:20:39 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 17:20:39 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 17:25:09 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 17:25:09 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 17:28:25 I/Net 2027063275: Connected to server 42.81.169.46:8080[0m
+[0m2021-02-04 17:28:25 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 17:28:25 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 17:28:25 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 17:28:25 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 17:28:25 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 17:28:25 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 17:28:25 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 17:28:25 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 17:28:25 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 17:28:25 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 17:28:25 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 17:28:25 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 17:28:28 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 17:28:28 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 17:28:28 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 17:32:55 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 17:32:55 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 17:37:25 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 17:37:25 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 17:41:55 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 17:41:55 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 17:45:15 I/Net 2027063275: Connected to server 42.81.172.147:443[0m
+[0m2021-02-04 17:45:15 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 17:45:15 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 17:45:15 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 17:45:15 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 17:45:15 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 17:45:15 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 17:45:15 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 17:45:15 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 17:45:15 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 17:45:15 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 17:45:15 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 17:45:16 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 17:45:18 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 17:45:18 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 17:45:18 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 17:49:45 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 17:49:45 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 17:54:15 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 17:54:15 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 17:58:45 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 17:58:45 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 18:02:01 I/Net 2027063275: Connected to server 42.81.172.81:80[0m
+[0m2021-02-04 18:02:01 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 18:02:01 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 18:02:01 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 18:02:01 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 18:02:01 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 18:02:01 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 18:02:01 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 18:02:01 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 18:02:01 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 18:02:01 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 18:02:01 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 18:02:01 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 18:02:04 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 18:02:04 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 18:02:04 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 18:06:31 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 18:06:31 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 18:11:01 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 18:11:01 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 18:15:31 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 18:15:31 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 18:18:51 I/Net 2027063275: Connected to server 114.221.144.215:80[0m
+[0m2021-02-04 18:18:51 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 18:18:51 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 18:18:51 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 18:18:51 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 18:18:51 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 18:18:51 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 18:18:52 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 18:18:52 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 18:18:52 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 18:18:52 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 18:18:52 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 18:18:52 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 18:18:54 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 18:18:54 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 18:18:55 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 18:18:55 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 18:18:55 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[31m2021-02-04 18:19:41 E/Net 2027063275: Exception in NetworkHandler
+java.util.NoSuchElementException: net.mamoe.mirai.message.data.MessageSource$Key@78397af9
+	at net.mamoe.mirai.api.http.data.common.MessageDTOKt.toDTO(MessageDTO.kt:282)
+	at net.mamoe.mirai.api.http.data.common.MessageDTOKt.toDTO(MessageDTO.kt:261)
+	at net.mamoe.mirai.api.http.data.common.BotEventDTOKt.toDTO(BotEventDTO.kt:21)
+	at net.mamoe.mirai.api.http.route.WebSocketRouteModuleKt$websocketRouteModule$1$$special$$inlined$miraiWebsocket$3$lambda$1.invokeSuspend(WebSocketRouteModule.kt:83)
+	at net.mamoe.mirai.api.http.route.WebSocketRouteModuleKt$websocketRouteModule$1$$special$$inlined$miraiWebsocket$3$lambda$1.invoke(WebSocketRouteModule.kt)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invokeSuspend(EventChannel.kt:393)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.event.EventChannel$filter$1$intercepted$1.invokeSuspend(EventChannel.kt:144)
+	at net.mamoe.mirai.event.EventChannel$filter$1$intercepted$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invokeSuspend(InternalEventListeners.kt:49)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invoke(InternalEventListeners.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startUndispatchedOrReturn(Undispatched.kt:91)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.withContext(Builders.common.kt:165)
+	at kotlinx.coroutines.BuildersKt.withContext(Unknown Source)
+	at net.mamoe.mirai.internal.event.Handler.onEvent(InternalEventListeners.kt:49)
+	at net.mamoe.mirai.event.EventKt.broadcast(Event.kt:226)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.handlePacket(QQAndroidBotNetworkHandler.kt:631)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$generifiedParsePacket$2.invokeSuspend(QQAndroidBotNetworkHandler.kt:587)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$generifiedParsePacket$2.invoke(QQAndroidBotNetworkHandler.kt)
+	at net.mamoe.mirai.internal.network.protocol.packet.KnownPacketFactories.handleIncomingPacket$mirai_core(PacketFactory.kt:286)
+	at net.mamoe.mirai.internal.network.protocol.packet.KnownPacketFactories.parseIncomingPacket(PacketFactory.kt:242)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.generifiedParsePacket(QQAndroidBotNetworkHandler.kt:578)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.parsePacket(QQAndroidBotNetworkHandler.kt:573)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$parsePacketAsync$1.invokeSuspend(QQAndroidBotNetworkHandler.kt:556)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:750)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+[0m
+[0m2021-02-04 18:21:43 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 18:21:51 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 18:23:22 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 18:23:22 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 18:27:52 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 18:27:52 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 18:32:22 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 18:32:22 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 18:35:37 I/Net 2027063275: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-04 18:35:37 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 18:35:37 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 18:35:37 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 18:35:37 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 18:35:37 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 18:35:37 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 18:35:37 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 18:35:37 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 18:35:37 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 18:35:37 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 18:35:37 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 18:35:37 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 18:35:40 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 18:35:40 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 18:35:40 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 18:40:07 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 18:40:07 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 18:44:37 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 18:44:37 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 18:49:07 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 18:49:07 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 18:52:29 I/Net 2027063275: Connected to server 125.94.60.146:80[0m
+[0m2021-02-04 18:52:29 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 18:52:29 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 18:52:29 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 18:52:29 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 18:52:29 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 18:52:29 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 18:52:30 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 18:52:30 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 18:52:30 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 18:52:30 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 18:52:30 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 18:52:30 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 18:52:33 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 18:52:33 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 18:52:33 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 18:52:33 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 18:52:33 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 18:57:00 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 18:57:00 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 19:01:30 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 19:01:30 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 19:06:00 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 19:06:00 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 19:09:15 I/Net 2027063275: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-04 19:09:15 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 19:09:15 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 19:09:15 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 19:09:15 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 19:09:15 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 19:09:15 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 19:09:15 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 19:09:15 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 19:09:15 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 19:09:15 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 19:09:15 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 19:09:15 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 19:09:18 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 19:09:18 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 19:09:18 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 19:13:45 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 19:13:45 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 19:18:15 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 19:18:15 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 19:22:45 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 19:22:45 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 19:26:07 I/Net 2027063275: Connected to server 42.81.172.22:80[0m
+[0m2021-02-04 19:26:07 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 19:26:08 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 19:26:08 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 19:26:08 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 19:26:08 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 19:26:08 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 19:26:08 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 19:26:08 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 19:26:08 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 19:26:08 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 19:26:08 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 19:26:08 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 19:26:11 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 19:26:11 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 19:26:11 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 19:26:11 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 19:26:11 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 19:30:38 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 19:30:38 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 19:35:08 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 19:35:08 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 19:39:38 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 19:39:38 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 19:42:53 I/Net 2027063275: Connected to server 42.81.169.46:8080[0m
+[0m2021-02-04 19:42:53 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 19:42:53 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 19:42:53 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 19:42:53 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 19:42:53 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 19:42:53 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 19:42:53 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 19:42:53 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 19:42:53 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 19:42:53 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 19:42:53 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 19:42:53 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 19:42:56 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 19:42:56 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 19:42:56 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 19:47:23 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 19:47:23 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 19:51:53 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 19:51:53 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 19:56:23 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 19:56:23 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 19:59:46 I/Net 2027063275: Connected to server 42.81.172.147:443[0m
+[0m2021-02-04 19:59:46 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 19:59:46 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 19:59:46 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 19:59:46 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 19:59:46 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 19:59:46 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 19:59:46 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 19:59:46 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 19:59:46 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 19:59:46 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 19:59:46 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 19:59:46 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 19:59:49 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 19:59:49 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 19:59:49 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 20:04:16 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 20:04:16 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 20:08:46 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 20:08:46 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 20:13:16 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 20:13:16 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 20:16:32 I/Net 2027063275: Connected to server 42.81.172.81:80[0m
+[0m2021-02-04 20:16:32 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 20:16:32 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 20:16:32 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 20:16:32 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 20:16:32 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 20:16:32 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 20:16:32 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 20:16:32 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 20:16:32 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 20:16:32 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 20:16:32 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 20:16:32 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 20:16:35 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 20:16:35 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 20:16:35 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 20:19:43 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 20:19:52 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 20:21:02 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 20:21:02 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 20:25:32 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 20:25:32 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 20:30:02 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 20:30:02 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 20:33:17 I/Net 2027063275: Connected to server 114.221.144.215:80[0m
+[0m2021-02-04 20:33:17 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 20:33:17 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 20:33:17 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 20:33:17 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 20:33:17 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 20:33:17 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 20:33:17 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 20:33:17 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 20:33:17 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 20:33:17 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 20:33:17 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 20:33:17 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 20:33:20 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 20:33:20 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 20:33:20 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 20:33:20 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 20:33:20 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 20:37:47 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 20:37:47 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 20:42:17 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 20:42:17 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 20:46:47 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 20:46:47 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 20:50:07 I/Net 2027063275: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-04 20:50:07 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 20:50:08 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 20:50:08 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 20:50:08 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 20:50:08 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 20:50:08 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 20:50:08 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 20:50:08 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 20:50:08 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 20:50:08 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 20:50:08 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 20:50:08 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 20:50:11 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 20:50:11 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 20:50:11 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 20:54:38 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 20:54:38 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[31m2021-02-04 20:59:04 E/Net 2027063275: Exception in NetworkHandler
+java.util.NoSuchElementException: net.mamoe.mirai.message.data.MessageSource$Key@78397af9
+	at net.mamoe.mirai.api.http.data.common.MessageDTOKt.toDTO(MessageDTO.kt:282)
+	at net.mamoe.mirai.api.http.data.common.MessageDTOKt.toDTO(MessageDTO.kt:261)
+	at net.mamoe.mirai.api.http.data.common.BotEventDTOKt.toDTO(BotEventDTO.kt:21)
+	at net.mamoe.mirai.api.http.route.WebSocketRouteModuleKt$websocketRouteModule$1$$special$$inlined$miraiWebsocket$3$lambda$1.invokeSuspend(WebSocketRouteModule.kt:83)
+	at net.mamoe.mirai.api.http.route.WebSocketRouteModuleKt$websocketRouteModule$1$$special$$inlined$miraiWebsocket$3$lambda$1.invoke(WebSocketRouteModule.kt)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invokeSuspend(EventChannel.kt:393)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.event.EventChannel$filter$1$intercepted$1.invokeSuspend(EventChannel.kt:144)
+	at net.mamoe.mirai.event.EventChannel$filter$1$intercepted$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invokeSuspend(InternalEventListeners.kt:49)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invoke(InternalEventListeners.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startUndispatchedOrReturn(Undispatched.kt:91)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.withContext(Builders.common.kt:165)
+	at kotlinx.coroutines.BuildersKt.withContext(Unknown Source)
+	at net.mamoe.mirai.internal.event.Handler.onEvent(InternalEventListeners.kt:49)
+	at net.mamoe.mirai.event.EventKt.broadcast(Event.kt:226)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.handlePacket(QQAndroidBotNetworkHandler.kt:631)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$generifiedParsePacket$2.invokeSuspend(QQAndroidBotNetworkHandler.kt:587)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$generifiedParsePacket$2.invoke(QQAndroidBotNetworkHandler.kt)
+	at net.mamoe.mirai.internal.network.protocol.packet.KnownPacketFactories.handleIncomingPacket$mirai_core(PacketFactory.kt:286)
+	at net.mamoe.mirai.internal.network.protocol.packet.KnownPacketFactories.parseIncomingPacket(PacketFactory.kt:242)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.generifiedParsePacket(QQAndroidBotNetworkHandler.kt:578)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.parsePacket(QQAndroidBotNetworkHandler.kt:573)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$parsePacketAsync$1.invokeSuspend(QQAndroidBotNetworkHandler.kt:556)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:750)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+[0m
+[0m2021-02-04 20:59:08 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 20:59:08 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 21:03:38 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 21:03:38 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 21:06:54 I/Net 2027063275: Connected to server 125.94.60.146:80[0m
+[0m2021-02-04 21:06:54 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 21:06:54 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 21:06:54 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 21:06:54 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 21:06:54 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 21:06:54 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 21:06:54 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 21:06:54 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 21:06:54 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 21:06:54 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 21:06:54 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 21:06:54 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 21:06:57 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 21:06:57 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 21:06:57 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 21:07:02 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 21:07:02 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 21:11:24 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 21:11:24 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 21:15:54 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 21:15:54 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 21:20:24 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 21:20:24 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 21:23:39 I/Net 2027063275: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-04 21:23:39 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 21:23:39 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 21:23:39 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 21:23:39 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 21:23:39 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 21:23:39 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 21:23:39 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 21:23:39 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 21:23:39 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 21:23:39 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 21:23:39 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 21:23:39 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 21:23:42 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 21:23:42 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 21:23:42 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 21:28:09 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 21:28:09 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 21:32:39 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 21:32:39 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 21:37:09 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 21:37:09 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 21:40:31 I/Net 2027063275: Connected to server 42.81.172.22:80[0m
+[0m2021-02-04 21:40:31 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 21:40:31 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 21:40:31 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 21:40:32 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 21:40:32 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 21:40:32 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 21:40:32 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 21:40:32 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 21:40:32 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 21:40:32 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 21:40:32 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 21:40:32 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 21:40:35 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 21:40:35 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 21:40:35 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 21:40:35 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 21:40:35 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 21:45:02 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 21:45:02 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 21:49:32 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 21:49:32 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 21:54:02 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 21:54:02 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 21:57:17 I/Net 2027063275: Connected to server 42.81.169.46:8080[0m
+[0m2021-02-04 21:57:17 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 21:57:17 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 21:57:17 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 21:57:17 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 21:57:17 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 21:57:17 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 21:57:17 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 21:57:17 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 21:57:17 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 21:57:17 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 21:57:17 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 21:57:17 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 21:57:20 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 21:57:20 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 21:57:20 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 22:01:47 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 22:01:47 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 22:06:17 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 22:06:17 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 22:10:47 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 22:10:47 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 22:11:11 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:11:19 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[92m2021-02-04 22:14:08 I/Net 2027063275: Connected to server 42.81.172.147:443[0m
+[0m2021-02-04 22:14:08 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 22:14:08 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 22:14:08 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 22:14:09 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 22:14:09 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 22:14:09 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 22:14:09 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 22:14:09 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 22:14:09 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 22:14:09 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 22:14:09 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[0m2021-02-04 22:14:09 V/Net 2027063275: Send: MessageSvc.PbDeleteMsg[0m
+[92m2021-02-04 22:14:09 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 22:14:12 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 22:14:12 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 22:14:12 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 22:18:39 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 22:18:39 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 22:19:56 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:20:05 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:23:09 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 22:23:09 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 22:27:39 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 22:27:39 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 22:30:54 I/Net 2027063275: Connected to server 42.81.172.81:80[0m
+[0m2021-02-04 22:30:54 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 22:30:54 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 22:30:54 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 22:30:54 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 22:30:54 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 22:30:54 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 22:30:54 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 22:30:54 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 22:30:54 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 22:30:54 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 22:30:54 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 22:30:54 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 22:30:57 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 22:30:57 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 22:30:57 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 22:35:24 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 22:35:24 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 22:36:56 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:37:04 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:39:54 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 22:39:54 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 22:44:10 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:44:18 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:44:24 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 22:44:24 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 22:47:40 I/Net 2027063275: Connected to server 114.221.144.215:80[0m
+[0m2021-02-04 22:47:40 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 22:47:40 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 22:47:40 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 22:47:40 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 22:47:40 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 22:47:40 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 22:47:40 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 22:47:40 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 22:47:40 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 22:47:40 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 22:47:40 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 22:47:40 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 22:47:43 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 22:47:43 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 22:47:43 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 22:47:43 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 22:47:43 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 22:49:19 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:49:21 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:49:27 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:49:30 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:51:07 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:51:15 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:52:10 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 22:52:10 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[31m2021-02-04 22:53:16 E/Net 2027063275: Exception in NetworkHandler
+java.util.NoSuchElementException: net.mamoe.mirai.message.data.MessageSource$Key@78397af9
+	at net.mamoe.mirai.api.http.data.common.MessageDTOKt.toDTO(MessageDTO.kt:282)
+	at net.mamoe.mirai.api.http.data.common.MessageDTOKt.toDTO(MessageDTO.kt:261)
+	at net.mamoe.mirai.api.http.data.common.BotEventDTOKt.toDTO(BotEventDTO.kt:21)
+	at net.mamoe.mirai.api.http.route.WebSocketRouteModuleKt$websocketRouteModule$1$$special$$inlined$miraiWebsocket$3$lambda$1.invokeSuspend(WebSocketRouteModule.kt:83)
+	at net.mamoe.mirai.api.http.route.WebSocketRouteModuleKt$websocketRouteModule$1$$special$$inlined$miraiWebsocket$3$lambda$1.invoke(WebSocketRouteModule.kt)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invokeSuspend(EventChannel.kt:393)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.event.EventChannel$filter$1$intercepted$1.invokeSuspend(EventChannel.kt:144)
+	at net.mamoe.mirai.event.EventChannel$filter$1$intercepted$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invokeSuspend(InternalEventListeners.kt:49)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invoke(InternalEventListeners.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startUndispatchedOrReturn(Undispatched.kt:91)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.withContext(Builders.common.kt:165)
+	at kotlinx.coroutines.BuildersKt.withContext(Unknown Source)
+	at net.mamoe.mirai.internal.event.Handler.onEvent(InternalEventListeners.kt:49)
+	at net.mamoe.mirai.event.EventKt.broadcast(Event.kt:226)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.handlePacket(QQAndroidBotNetworkHandler.kt:631)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$generifiedParsePacket$2.invokeSuspend(QQAndroidBotNetworkHandler.kt:587)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$generifiedParsePacket$2.invoke(QQAndroidBotNetworkHandler.kt)
+	at net.mamoe.mirai.internal.network.protocol.packet.KnownPacketFactories.handleIncomingPacket$mirai_core(PacketFactory.kt:286)
+	at net.mamoe.mirai.internal.network.protocol.packet.KnownPacketFactories.parseIncomingPacket(PacketFactory.kt:242)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.generifiedParsePacket(QQAndroidBotNetworkHandler.kt:578)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler.parsePacket(QQAndroidBotNetworkHandler.kt:573)
+	at net.mamoe.mirai.internal.network.QQAndroidBotNetworkHandler$parsePacketAsync$1.invokeSuspend(QQAndroidBotNetworkHandler.kt:556)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:750)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+[0m
+[0m2021-02-04 22:55:13 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:55:13 V/Net 2027063275: Recv: RequestPushNotify(uin=2027063275, ctype=1, strService=MessageSvc, strCmd=PushNotify, usMsgType=45, stMsgInfo=net.mamoe.mirai.internal.network.protocol.data.jce.MsgInfo@54e7e16f)[0m
+[0m2021-02-04 22:55:13 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[0m2021-02-04 22:55:13 V/Net 2027063275: Send: MessageSvc.PbDeleteMsg[0m
+[0m2021-02-04 22:55:13 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[0m2021-02-04 22:55:13 V/Net 2027063275: Send: MessageSvc.PbDeleteMsg[0m
+[0m2021-02-04 22:55:21 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:56:34 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 22:56:40 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 22:56:40 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 22:56:43 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 23:01:10 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 23:01:10 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 23:05:40 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 23:05:40 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 23:09:32 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 23:09:41 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 23:10:10 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 23:10:10 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 23:11:58 I/Net 2027063275: Connected to server 114.221.148.59:14000[0m
+[0m2021-02-04 23:11:58 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 23:11:58 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 23:11:58 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 23:11:58 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 23:11:58 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 23:11:58 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 23:11:58 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 23:11:58 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 23:11:58 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 23:11:58 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 23:11:58 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 23:11:58 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 23:12:01 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 23:12:01 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 23:12:01 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 23:12:01 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 23:12:01 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 23:16:00 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 23:16:09 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 23:16:28 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 23:16:28 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 23:20:58 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 23:20:58 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 23:23:45 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 23:23:54 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 23:25:28 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 23:25:28 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 23:28:49 I/Net 2027063275: Connected to server 125.94.60.146:80[0m
+[0m2021-02-04 23:28:49 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 23:28:49 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 23:28:49 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 23:28:49 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 23:28:49 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 23:28:49 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 23:28:49 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 23:28:49 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 23:28:49 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 23:28:49 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 23:28:49 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 23:28:49 I/Net 2027063275: Syncing friend message history: Success.[0m
+[0m2021-02-04 23:28:52 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 23:28:52 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[96m2021-02-04 23:28:52 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 23:28:52 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 23:28:52 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 23:28:55 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 23:29:04 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[96m2021-02-04 23:33:18 D/Net 2027063275: Unknown Transformers528 0x14 template
+templId=1067
+PermList=[TemplParam#1401784070 {
+            name=68 6F 6E 6F 72 5F 69 6D 67
+            value=68 74 74 70 73 3A 2F 2F 71 7A 6F 6E 65 73 74 79 6C 65 2E 67 74 69 6D 67 2E 63 6E 2F 61 6F 69 2F 73 6F 6C 61 2F 32 30 32 30 30 32 31 33 31 35 30 34 32 32 5F 4B 43 51 69 77 42 56 6C 74 6E 2E 70 6E 67
+    }, TemplParam#1401784070 {
+            name=68 6F 6E 6F 72 5F 6E 61 6D 65 5F 32
+            value=E5 BF AB E4 B9 90 E6 BA 90 E6 B3 89
+    }, TemplParam#1401784070 {
+            name=68 6F 6E 6F 72 5F 75 72 6C
+            value=68 74 74 70 73 3A 2F 2F 71 75 6E 2E 71 71 2E 63 6F 6D 2F 69 6E 74 65 72 61 63 74 69 76 65 2F 71 75 6E 68 6F 6E 6F 72 3F 67 63 3D 31 31 33 35 37 31 37 39 33 35 26 61 6D 70 3B 5F 77 76 3D 33 26 61 6D 70 3B 5F 77 77 76 3D 31 32 38
+    }, TemplParam#1401784070 {
+            name=6E 69 63 6B
+            value=E6 AD A6 E5 AD 90 E8 B1 AA 28 E4 B8 AD E5 8C 97 E5 A4 A7 E8 81 AA E6 98 8E 29
+    }, TemplParam#1401784070 {
+            name=75 69 6E
+            value=33 39 37 39 34 37 33 34 35
+    }, TemplParam#1401784070 {
+            name=75 69 6E 5F 75 72 6C
+            value=6D 71 71 61 70 69 3A 2F 2F 63 61 72 64 2F 73 68 6F 77 5F 70 73 6C 63 61 72 64 3F 63 61 72 64 5F 74 79 70 65 3D 74 72 6F 6F 70 6D 65 6D 62 65 72 26 61 6D 70 3B 75 69 6E 3D 24 55 49 4E 24 26 61 6D 70 3B 74 72 6F 6F 70 63 6F 64 65 3D 31 31 33 35 37 31 37 39 33 35 26 61 6D 70 3B 73 72 63 5F 74 79 70 65 3D 69 6E 74 65 72 6E 61 6C 26 61 6D 70 3B 76 65 72 73 69 6F 6E 3D 31
+    }][0m
+[0m2021-02-04 23:33:18 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 23:33:19 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 23:33:19 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 23:33:27 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 23:37:49 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 23:37:49 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 23:42:19 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 23:42:20 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[92m2021-02-04 23:45:35 I/Net 2027063275: Connected to server msfwifi.3g.qq.com:8080[0m
+[0m2021-02-04 23:45:35 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 23:45:35 V/Net 2027063275: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin[0m
+[0m2021-02-04 23:45:35 V/Net 2027063275: Send: wtlogin.login[0m
+[0m2021-02-04 23:45:35 V/Net 2027063275: Recv: LoginPacketResponse.Success[0m
+[92m2021-02-04 23:45:35 I/Net 2027063275: Login successful[0m
+[0m2021-02-04 23:45:35 V/Net 2027063275: Send: StatSvc.register[0m
+[0m2021-02-04 23:45:35 V/Net 2027063275: Recv: Response(StatSvc.register)[0m
+[0m2021-02-04 23:45:35 V/Net 2027063275: Send: StatSvc.GetDevLoginInfo[0m
+[0m2021-02-04 23:45:35 V/Net 2027063275: Recv: StatSvc.GetDevLoginInfo.Response(deviceList.size=1)[0m
+[92m2021-02-04 23:45:35 I/Net 2027063275: Syncing friend message history...[0m
+[0m2021-02-04 23:45:35 V/Net 2027063275: Send: MessageSvc.PbGetMsg[0m
+[92m2021-02-04 23:45:35 I/Net 2027063275: Syncing friend message history: Success.[0m
+[96m2021-02-04 23:45:38 D/Net 2027063275: Received unknown commandName: ConfigPushSvc.PushDomain[0m
+[0m2021-02-04 23:45:38 V/Net 2027063275: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success[0m
+[0m2021-02-04 23:45:38 V/Net 2027063275: Send: ConfigPushSvc.PushResp[0m
+[0m2021-02-04 23:45:44 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 23:45:53 V/Net 2027063275: Send: OnlinePush.RespPush[0m
+[0m2021-02-04 23:50:05 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 23:50:05 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 23:54:35 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 23:54:35 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
+[0m2021-02-04 23:59:05 V/Net 2027063275: Send: Heartbeat.Alive[0m
+[0m2021-02-04 23:59:05 V/Net 2027063275: Recv: Heartbeat.Alive.Response[0m
